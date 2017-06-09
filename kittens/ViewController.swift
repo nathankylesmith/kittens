@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     
         print("hey")
-        print("I changed some code but it's not showing up????")
+        
         
         
     }
