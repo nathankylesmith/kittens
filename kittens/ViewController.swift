@@ -13,6 +13,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+    
+        print("hey")
+        print("I changed some code but it's not showing up????")
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
@@ -23,3 +28,4 @@ class ViewController: UIViewController {
 
 }
 
+var kittens = [String]()
